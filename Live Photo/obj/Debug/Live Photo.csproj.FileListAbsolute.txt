@@ -1,0 +1,26 @@
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\bin\Debug\Live Photo.mdb
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\bin\Debug\Live Photo.exe.config
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\bin\Debug\Live Photo.exe
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\bin\Debug\Live Photo.pdb
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live Photo.csproj.AssemblyReference.cache
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live Photo.csproj.SuggestedBindingRedirects.cache
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.AboutBox1.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Form1.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Properties.Resources.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live Photo.csproj.GenerateResource.cache
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live Photo.csproj.CoreCompileInputs.cache
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live Photo.exe
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live Photo.pdb
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Form2.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Form3.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Form4.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Form5.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.clothes.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.chromakey.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.searchlight.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Camera.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Printer.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Documents.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Post.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.TypePhotoshoot.resources
+C:\Users\жора\Desktop\rest\практика\ИС\Live Photo\Live Photo\obj\Debug\Live_Photo.Clients.resources
